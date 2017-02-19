@@ -1,0 +1,25 @@
+﻿  AIHolder.cpp
+  AIPlayer.cpp
+  BaseTask.cpp
+  CompoundTask.cpp
+  DataLoader.cpp
+  DataRepository.cpp
+  FireEventTask.cpp
+  game.cpp
+  GameSequencer.cpp
+  GraphicsBuffer.cpp
+GraphicsBuffer.cpp(4): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+  GraphicsColor.cpp
+GraphicsColor.cpp(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+  GraphicsFont.cpp
+GraphicsFont.cpp(6): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+  GraphicsGrid.cpp
+  GraphicsSprite.cpp
+  GraphicsSystem.cpp
+GraphicsSystem.cpp(7): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+  HumanPlayer.cpp
+  InputSystem.cpp
+InputSystem.cpp(6): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+  main.cpp
+  StatTracker.cpp
+  TaskCollection.cpp

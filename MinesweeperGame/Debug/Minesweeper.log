@@ -1,0 +1,26 @@
+﻿  WaitTask.cpp
+  WaitAndFireEventTask.cpp
+  TaskCollection.cpp
+  StatTracker.cpp
+  main.cpp
+  InputSystem.cpp
+  HumanPlayer.cpp
+  GraphicsSystem.cpp
+  GraphicsSprite.cpp
+  GraphicsGrid.cpp
+  GraphicsFont.cpp
+  GraphicsColor.cpp
+  GraphicsBuffer.cpp
+  GameSequencer.cpp
+  game.cpp
+  FireEventTask.cpp
+  DataRepository.cpp
+  DataLoader.cpp
+  CompoundTask.cpp
+  BaseTask.cpp
+  Generating Code...
+  Compiling...
+  AIPlayer.cpp
+  AIHolder.cpp
+  Generating Code...
+  Minesweeper.vcxproj -> Z:\Documents\School\Senior\AI\games\Minesweeper\student games\Wood.Ty\MinesweeperDLL\Debug\Minesweeper.exe

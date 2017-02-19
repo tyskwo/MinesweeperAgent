@@ -1,0 +1,22 @@
+﻿  TransactionHandler.cpp
+  Transaction.cpp
+  Trackable.cpp
+  Timer.cpp
+  ResetGameEvent.cpp
+  Player.cpp
+  PickCellEvent.cpp
+  PerformanceTracker.cpp
+  MouseEvent.cpp
+  MemoryTracker.cpp
+  HiddenCell.cpp
+  Grid.cpp
+  GameView.cpp
+  GameState.cpp
+  EventSystem.cpp
+  Event.cpp
+  DLLInittedTransaction.cpp
+  CellClickTransaction.cpp
+  Cell.cpp
+  BaseEvent.cpp
+  Generating Code...
+  GameLib.vcxproj -> Z:\Documents\School\Senior\AI\games\Minesweeper\student games\Wood.Ty\GameLib\Debug\GameLib.lib
